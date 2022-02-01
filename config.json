@@ -1,0 +1,6 @@
+{
+  "servicename": "L3Q4BZ3F",
+  "host": "test.mosquitto.org",
+  "wsport": 8080,
+  "mqttport": 1883
+}

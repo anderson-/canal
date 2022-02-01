@@ -1,5 +1,3 @@
 
-
-
-TLS over MQTT
+# Transfer data through public MQTT brokers using TLS
 
