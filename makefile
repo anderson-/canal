@@ -31,3 +31,6 @@ production-upload:
 run-production-upload:
 	python3 -m pip install canal-mqtt --upgrade
 	python3 test/test.py cert.pem key.pem 13
+
+npm-deploy:
+	npm publish

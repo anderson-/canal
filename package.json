@@ -1,0 +1,12 @@
+{
+  "name": "canal-mqtt",
+  "version": "0.0.1",
+  "description": "Transfer data through public MQTT brokers using TLS",
+  "homepage": "https://github.com/anderson-/canal",
+  "main": "index.js",
+  "files": [],
+  "dependencies": {
+    "mqtt": "^4.3.4",
+    "node-forge": "^1.2.1"
+  }
+}
